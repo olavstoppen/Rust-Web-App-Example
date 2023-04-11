@@ -1,4 +1,4 @@
-# Rust Web App Example | Yew, WASM and trunc
+# Rust Web App Example | Yew, WASM and trunk
 
 A simple counter app built using the Yew crate in Rust. This application demonstrates the use of Yew and WebAssembly to create a web application with a button and counter.
 
